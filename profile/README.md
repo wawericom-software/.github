@@ -2,7 +2,7 @@
 
 WAWERICOM COMPANY IS A SOFTWARE STARTUP LOCATED IN NAIROBI KENYA.
 
-Main software engineer @simokamaa
+Startup developer :  @simokamaa
 
 Developing software startup products
 
